@@ -1,0 +1,16 @@
+body {
+    background-color: lightgrey;
+}
+
+.container {
+    justify-content: center;
+}
+
+.row {
+    justify-content: center;
+}
+
+.card-image-top {
+    height: 100px;
+}
+
